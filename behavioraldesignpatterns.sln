@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "behavioraldesignpatterns", "behavioraldesignpatterns\behavioraldesignpatterns.csproj", "{26878E19-4310-40BD-9A84-3A2FEC0A9048}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5D4C9515-8CAC-45B0-8EE2-7EB4E2716836}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26878E19-4310-40BD-9A84-3A2FEC0A9048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26878E19-4310-40BD-9A84-3A2FEC0A9048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26878E19-4310-40BD-9A84-3A2FEC0A9048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26878E19-4310-40BD-9A84-3A2FEC0A9048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F504A8C-CB51-4B71-B4F1-0B958A6057A2}
+	EndGlobalSection
+EndGlobal
